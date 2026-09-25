@@ -1,16 +1,20 @@
-## Hi there 👋
+## Well. Welcome! My name is ConeUi 👍
+- 🌱 I'm loved Android and Linux!
 
-<!--
-**FeaturedPr0ject/FeaturedPr0ject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡"My dream is unlock bootloader my Phone."
 
-Here are some ideas to get you started:
+### My connects bradar.
+<a href="https://scratch.mit.edu/users/ConeUi/" target="_blank">
+  <img src="https://cdn.simpleicons.org/scratch" width="48" height="48" alt="Scratch"/>
+</a>
+<a href="https://www.facebook.com/BocchiZ/" target="_blank">
+  <img src="https://cdn.simpleicons.org/facebook" width="48" height="48" alt="Facebook"/>
+</a>
+<a href="https://www.youtube.com/@conebapvn" target="_blank">
+  <img src="https://cdn.simpleicons.org/youtube" width="48" height="48" alt="YouTube"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Are Languages I'll know!
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,git,linux,py,github,html" />
+</p>
