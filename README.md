@@ -18,3 +18,5 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio,git,linux,py,github,html" />
 </p>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTI3YXV3dmc0ODFtdGdseTJqanE0YmNzZms3b3pmeWV0bWNyczdxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ixlvheavdDS8L7GFCt/giphy.gif" width="200">
